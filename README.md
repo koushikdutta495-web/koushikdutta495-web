@@ -19,7 +19,7 @@ I'm continuously improving my analytical and technical skills through hands-on p
 
 Here are some of my Data Analytics projects:
 
-- Amazon Sales Analysis
+- Amazon Sales Analysis    https://github.com/koushikdutta495-web/FINANACE-ANALYSIS-PROJECT
 - Blinkit Sales Dashboard
 - ETP KPI Dashboard
 - Uber Data Analysis
