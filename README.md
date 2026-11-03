@@ -18,17 +18,15 @@ I'm continuously improving my analytical and technical skills through hands-on p
 ## 📊 Featured Projects
 
 Here are some of my Data Analytics projects:
-
-- Amazon Sales Analysis    
-- Blinkit Sales Dashboard
-- ETP KPI Dashboard
-- Uber Data Analysis
-- Hospital Emergency Room Analysis
-- Car Sales Dashboard
-- HR Analytics Dashboard
-- Customer Sales Analysis
-- E-commerce Database Analysis
-
+    
+- Blinkit Sales Dashboard           (https://github.com/koushikdutta495-web/Blinkit-Analysis-Project-)
+- ETP KPI Dashboard                 (https://github.com/koushikdutta495-web/ETP-Operations-Environmental-Performance-Dashboard)
+- Uber Data Analysis                (https://github.com/koushikdutta495-web/Uber-Trip-Analysis)
+- Hospital Emergency Room Analysis  (https://github.com/koushikdutta495-web/HOSPITAL-EMERGENCY-ROOM-DASHBOARD)
+- Customer Sales Analysis           (https://github.com/koushikdutta495-web/Client-Retail-Dashboard)
+- Finance Analysis                  (https://github.com/koushikdutta495-web/FINANACE-ANALYSIS-PROJECT)
+- Meta ad Performance               (https://github.com/koushikdutta495-web/Meat-Dashboard)
+  
 ## 🎓 Education
 
 **Bachelor of Arts (General)**  
